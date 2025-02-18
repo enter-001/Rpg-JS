@@ -21,3 +21,7 @@ button1.onclick=goStore;
 button2.onclick=goCave;
 button3.onclick=fightDragon;
 /*comment*/
+function goStore() {
+
+    console.log("Going Store");
+}
