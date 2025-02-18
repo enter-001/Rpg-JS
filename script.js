@@ -25,3 +25,10 @@ function goStore() {
 
     console.log("Going Store");
 }
+function goCave() {
+    console.log("Going Cave");
+ 
+}
+function fightDragon() {
+    console.log("Fighting Dragon");
+}   
