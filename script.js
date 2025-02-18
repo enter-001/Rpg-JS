@@ -25,9 +25,9 @@ function goStore() {
     button1.innerText="Buy 10 health for 10 gold";
     button2.innerText="Buy a sword for 30 gold";
     button3.innerText="Leave the store";
-    button1.onclick=buyHealth;
+   /* button1.onclick=buyHealth;
     button2.onclick=buySword;
-    button3.onclick=leaveStore; 
+    button3.onclick=leaveStore; */
     text.innerText="Welcome to the store";
     console.log("Going Store");
 }
